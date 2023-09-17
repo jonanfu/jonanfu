@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Freelacer<br>👯 I’m looking to collaborate on Open Data<br>🤝 I’m looking for help with creation of models of IA<br>🌱 I’m currently learning data analitycs<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
